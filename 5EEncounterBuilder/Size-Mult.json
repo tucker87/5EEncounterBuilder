@@ -1,0 +1,19 @@
+﻿{
+    "d": [
+        { "count": 1, "multiplier": 1 },
+        { "count": 2, "multiplier": 1.5 },
+        { "count": 3, "multiplier": 2 },
+        { "count": 4, "multiplier": 2 },
+        { "count": 5, "multiplier": 2 },
+        { "count": 6, "multiplier": 2 },
+        { "count": 7, "multiplier": 2.5 },
+        { "count": 8, "multiplier": 2.5 },
+        { "count": 9, "multiplier": 2.5 },
+        { "count": 10, "multiplier": 2.5 },
+        { "count": 11, "multiplier": 3 },
+        { "count": 12, "multiplier": 3 },
+        { "count": 13, "multiplier": 3 },
+        { "count": 14, "multiplier": 3 },
+        { "count": 15, "multiplier": 4 }
+    ]
+}
